@@ -1,0 +1,3 @@
+Create a script that allows you to 'paint' on your GitHub contributions graph. It will create 'old' repository folders then add them to your GitHub account on specified dates the script calculates.
+
+using git commit --date "the date" can allow you to put contribitions on the GitHub graph that will show up on the date provided
